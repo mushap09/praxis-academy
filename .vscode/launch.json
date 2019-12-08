@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PemahamanAritmetika",
+            "request": "launch",
+            "mainClass": "PemahamanAritmetika"
+        }
+    ]
+}

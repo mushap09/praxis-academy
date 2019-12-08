@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Aritmetika",
+            "request": "launch",
+            "mainClass": "Aritmetika"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Aritmetika",
+            "request": "launch",
+            "mainClass": "Aritmetika",
+            "projectName": "01-01_d6ebc116"
+        }
+    ]
+}
