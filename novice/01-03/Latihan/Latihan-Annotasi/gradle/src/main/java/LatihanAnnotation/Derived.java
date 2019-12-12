@@ -1,12 +1,5 @@
 package LatihanAnnotation;
 
-class Base
-{
-     public void display()
-     {
-         System.out.println("Base display()");
-     }
-}
 class Derived extends Base
 {
      @Override
