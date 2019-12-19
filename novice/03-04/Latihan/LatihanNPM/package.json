@@ -1,0 +1,11 @@
+{
+  "name": "latihan-npm",
+  "version": "1.0.0",
+  "description": "\"Latihan Npm pemula\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"test\""
+  },
+  "author": "Mushap",
+  "license": "ISC"
+}
